@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>搭建自己的Hexo博客并在GitHub上部署指南</title>
-    <url>/2023/11/16/%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%B9%B6%E5%9C%A8GitHub%E4%B8%8A%E9%83%A8%E7%BD%B2%E6%8C%87%E5%8D%97/</url>
-    <content><![CDATA[<h1 id="使用Hexo-GitHub自带的GitHub-pages来生成静态个人博客。"><a href="#使用Hexo-GitHub自带的GitHub-pages来生成静态个人博客。" class="headerlink" title="使用Hexo + GitHub自带的GitHub pages来生成静态个人博客。"></a>使用Hexo + GitHub自带的GitHub pages来生成静态个人博客。</h1><h2 id="环境部署："><a href="#环境部署：" class="headerlink" title="环境部署："></a>环境部署：</h2><h2 id="一、注册一个属于自己的GitHub账号"><a href="#一、注册一个属于自己的GitHub账号" class="headerlink" title="一、注册一个属于自己的GitHub账号"></a>一、注册一个属于自己的GitHub账号</h2><h2 id="二、安装git、node-js和hexo"><a href="#二、安装git、node-js和hexo" class="headerlink" title="二、安装git、node.js和hexo"></a>二、安装git、node.js和hexo</h2><h2 id="三、部署到GitHub"><a href="#三、部署到GitHub" class="headerlink" title="三、部署到GitHub"></a>三、部署到GitHub</h2>]]></content>
-      <categories>
-        <category>个人博客搭建</category>
-      </categories>
-      <tags>
-        <tag>hexo</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2023/11/15/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://longhaobiao.com/">Stars Blog</a>! </p>
@@ -30,12 +19,14 @@
 ]]></content>
   </entry>
   <entry>
-    <title>个人简介</title>
-    <url>/2023/11/19/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/</url>
-    <content><![CDATA[<h1 id="龙先生"><a href="#龙先生" class="headerlink" title="龙先生"></a>龙先生</h1><h2 id="23岁-深圳"><a href="#23岁-深圳" class="headerlink" title="23岁  深圳"></a>23岁  深圳</h2><h2 id="全日制-大专"><a href="#全日制-大专" class="headerlink" title="全日制 大专"></a>全日制 大专</h2><h2 id="四年弱电工作经验"><a href="#四年弱电工作经验" class="headerlink" title="四年弱电工作经验"></a>四年弱电工作经验</h2><h2 id="49-x31-54-x32-x38-x32-x37-x31-54-49-x40-113-113-x2e-x63-111-109"><a href="#49-x31-54-x32-x38-x32-x37-x31-54-49-x40-113-113-x2e-x63-111-109" class="headerlink" title="&#49;&#x31;&#54;&#x32;&#x38;&#x32;&#x37;&#x31;&#54;&#49;&#x40;&#113;&#113;&#x2e;&#x63;&#111;&#109;"></a><a href="mailto:&#49;&#x31;&#54;&#x32;&#x38;&#x32;&#x37;&#x31;&#54;&#49;&#x40;&#113;&#113;&#x2e;&#x63;&#111;&#109;">&#49;&#x31;&#54;&#x32;&#x38;&#x32;&#x37;&#x31;&#54;&#49;&#x40;&#113;&#113;&#x2e;&#x63;&#111;&#109;</a></h2><h1 id="求职意向"><a href="#求职意向" class="headerlink" title="求职意向"></a>求职意向</h1><h2 id="计算机相关助理岗位，楼宇智能化相关工程师岗位、"><a href="#计算机相关助理岗位，楼宇智能化相关工程师岗位、" class="headerlink" title="计算机相关助理岗位，楼宇智能化相关工程师岗位、"></a>计算机相关助理岗位，楼宇智能化相关工程师岗位、</h2><p>  </p>
-<h1 id="教育经历"><a href="#教育经历" class="headerlink" title="教育经历"></a>教育经历</h1><h2 id="2015-2020深圳第二高级技工学校-高技-楼宇自动控制设备安装与维护"><a href="#2015-2020深圳第二高级技工学校-高技-楼宇自动控制设备安装与维护" class="headerlink" title="2015-2020深圳第二高级技工学校(高技) 楼宇自动控制设备安装与维护"></a>2015-2020深圳第二高级技工学校(高技) 楼宇自动控制设备安装与维护</h2><h2 id="2020-2023广东新安职业技术学院-大专-计算机应用技术"><a href="#2020-2023广东新安职业技术学院-大专-计算机应用技术" class="headerlink" title="2020-2023广东新安职业技术学院(大专) 计算机应用技术"></a>2020-2023广东新安职业技术学院(大专) 计算机应用技术</h2><h1 id="所获职业资格"><a href="#所获职业资格" class="headerlink" title="所获职业资格"></a>所获职业资格</h1><h2 id="智能楼宇管理员（高级）、消防设施操作员（维保）、办公软件与应用（高级）、低压操作证、C1驾照"><a href="#智能楼宇管理员（高级）、消防设施操作员（维保）、办公软件与应用（高级）、低压操作证、C1驾照" class="headerlink" title="智能楼宇管理员（高级）、消防设施操作员（维保）、办公软件与应用（高级）、低压操作证、C1驾照"></a>智能楼宇管理员（高级）、消防设施操作员（维保）、办公软件与应用（高级）、低压操作证、C1驾照</h2><h1 id="校内经历"><a href="#校内经历" class="headerlink" title="校内经历"></a>校内经历</h1><h2 id="乒乓球社-成员"><a href="#乒乓球社-成员" class="headerlink" title="乒乓球社  成员"></a>乒乓球社  成员</h2><h2 id="第二课堂楼宇实训设备检修小组-成员"><a href="#第二课堂楼宇实训设备检修小组-成员" class="headerlink" title="第二课堂楼宇实训设备检修小组  成员"></a>第二课堂楼宇实训设备检修小组  成员</h2><h2 id="“第二课堂”是学校老师组织的课余提高与实训室维护小组"><a href="#“第二课堂”是学校老师组织的课余提高与实训室维护小组" class="headerlink" title="“第二课堂”是学校老师组织的课余提高与实训室维护小组"></a>“第二课堂”是学校老师组织的课余提高与实训室维护小组</h2><h1 id="工作经历"><a href="#工作经历" class="headerlink" title="工作经历"></a>工作经历</h1><h2 id="2023-招商物业-弱电"><a href="#2023-招商物业-弱电" class="headerlink" title="2023  招商物业 弱电"></a>2023  招商物业 弱电</h2><h3 id="四年的写字楼与商业的弱电工作让我专业的五大模块都有不同程度的运用和经验的积累，在职期间轮岗其能力得到了不少的提升和积累在工作中负责物业项目中弱电系统的规划、设计和实施，包括网络、电话、安防、监控等方面。管理和监督弱电工程的施工进度，确保项目按时交付协调和跟进供应商与承包商之间的沟通和合作，确保项目顺利进行与业主和住户沟通，了解需求，并提供专业建议和解决方案解决项目中出现的技术问题和风险，并与团队合作找到解决方案定期进行弱电系统的巡检和维护，保证系统的正常运行和安全性。编制弱电工程的预算和进度计划，及时调整和控制项目成本。在项目也进行轮岗强电维修和工程文秘"><a href="#四年的写字楼与商业的弱电工作让我专业的五大模块都有不同程度的运用和经验的积累，在职期间轮岗其能力得到了不少的提升和积累在工作中负责物业项目中弱电系统的规划、设计和实施，包括网络、电话、安防、监控等方面。管理和监督弱电工程的施工进度，确保项目按时交付协调和跟进供应商与承包商之间的沟通和合作，确保项目顺利进行与业主和住户沟通，了解需求，并提供专业建议和解决方案解决项目中出现的技术问题和风险，并与团队合作找到解决方案定期进行弱电系统的巡检和维护，保证系统的正常运行和安全性。编制弱电工程的预算和进度计划，及时调整和控制项目成本。在项目也进行轮岗强电维修和工程文秘" class="headerlink" title="四年的写字楼与商业的弱电工作让我专业的五大模块都有不同程度的运用和经验的积累，在职期间轮岗其能力得到了不少的提升和积累在工作中负责物业项目中弱电系统的规划、设计和实施，包括网络、电话、安防、监控等方面。管理和监督弱电工程的施工进度，确保项目按时交付协调和跟进供应商与承包商之间的沟通和合作，确保项目顺利进行与业主和住户沟通，了解需求，并提供专业建议和解决方案解决项目中出现的技术问题和风险，并与团队合作找到解决方案定期进行弱电系统的巡检和维护，保证系统的正常运行和安全性。编制弱电工程的预算和进度计划，及时调整和控制项目成本。在项目也进行轮岗强电维修和工程文秘"></a>四年的写字楼与商业的弱电工作让我专业的五大模块都有不同程度的运用和经验的积累，在职期间轮岗其能力得到了不少的提升和积累在工作中负责物业项目中弱电系统的规划、设计和实施，包括网络、电话、安防、监控等方面。管理和监督弱电工程的施工进度，确保项目按时交付协调和跟进供应商与承包商之间的沟通和合作，确保项目顺利进行与业主和住户沟通，了解需求，并提供专业建议和解决方案解决项目中出现的技术问题和风险，并与团队合作找到解决方案定期进行弱电系统的巡检和维护，保证系统的正常运行和安全性。编制弱电工程的预算和进度计划，及时调整和控制项目成本。在项目也进行轮岗强电维修和工程文秘</h3>]]></content>
+    <title>搭建自己的Hexo博客并在GitHub上部署指南</title>
+    <url>/2023/11/16/%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%B9%B6%E5%9C%A8GitHub%E4%B8%8A%E9%83%A8%E7%BD%B2%E6%8C%87%E5%8D%97/</url>
+    <content><![CDATA[<h1 id="使用Hexo-GitHub自带的GitHub-pages来生成静态个人博客。"><a href="#使用Hexo-GitHub自带的GitHub-pages来生成静态个人博客。" class="headerlink" title="使用Hexo + GitHub自带的GitHub pages来生成静态个人博客。"></a>使用Hexo + GitHub自带的GitHub pages来生成静态个人博客。</h1><h2 id="环境部署："><a href="#环境部署：" class="headerlink" title="环境部署："></a>环境部署：</h2><h2 id="一、注册一个属于自己的GitHub账号"><a href="#一、注册一个属于自己的GitHub账号" class="headerlink" title="一、注册一个属于自己的GitHub账号"></a>一、注册一个属于自己的GitHub账号</h2><h2 id="二、安装git、node-js和hexo"><a href="#二、安装git、node-js和hexo" class="headerlink" title="二、安装git、node.js和hexo"></a>二、安装git、node.js和hexo</h2><h2 id="三、部署到GitHub"><a href="#三、部署到GitHub" class="headerlink" title="三、部署到GitHub"></a>三、部署到GitHub</h2>]]></content>
+      <categories>
+        <category>个人博客搭建</category>
+      </categories>
       <tags>
-        <tag>about</tag>
+        <tag>hexo</tag>
       </tags>
   </entry>
 </search>
