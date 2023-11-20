@@ -1048,7 +1048,7 @@ pre code {
 }
 .headband {
   background: var(--theme-color);
-  height: 3px;
+  height: 0px;
 }
 @media (max-width: 991px) {
   .headband {
@@ -1589,7 +1589,6 @@ pre code {
 }
 .back-to-top span {
   margin-right: 8px;
-  display: none;
 }
 .back-to-top .fa {
   text-align: center;
