@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hexo添加Live2D看板娘</title>
+    <url>/2023/11/26/Hexo%E6%B7%BB%E5%8A%A0Live2D%E7%9C%8B%E6%9D%BF%E5%A8%98/</url>
+    <content><![CDATA[<h1 id="Hexo添加Live2D看板娘"><a href="#Hexo添加Live2D看板娘" class="headerlink" title="Hexo添加Live2D看板娘"></a>Hexo添加Live2D看板娘</h1><h1 id="官网地址配置：https-www-npmjs-com-package-hexo-helper-live2d"><a href="#官网地址配置：https-www-npmjs-com-package-hexo-helper-live2d" class="headerlink" title="官网地址配置：https://www.npmjs.com/package/hexo-helper-live2d"></a>官网地址配置：<a href="https://www.npmjs.com/package/hexo-helper-live2d">https://www.npmjs.com/package/hexo-helper-live2d</a></h1><h2 id="一、需要安装模型live2d-widget-model-haru"><a href="#一、需要安装模型live2d-widget-model-haru" class="headerlink" title="一、需要安装模型live2d-widget-model-haru"></a>一、需要安装模型live2d-widget-model-haru</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install live2d-widget-model-haru</span><br></pre></td></tr></table></figure>
+
+<h2 id="二、下载动画model地址：https-github-com-xiazeyu-live2d-widget-models-git"><a href="#二、下载动画model地址：https-github-com-xiazeyu-live2d-widget-models-git" class="headerlink" title="二、下载动画model地址：https://github.com/xiazeyu/live2d-widget-models.git"></a>二、下载动画model地址：<a href="https://github.com/xiazeyu/live2d-widget-models.git">https://github.com/xiazeyu/live2d-widget-models.git</a></h2><h2 id="三、下载好之后将packages里的所有动画模板拷贝到博客的node-modules目录里"><a href="#三、下载好之后将packages里的所有动画模板拷贝到博客的node-modules目录里" class="headerlink" title="三、下载好之后将packages里的所有动画模板拷贝到博客的node_modules目录里"></a>三、下载好之后将<code>packages</code>里的所有动画模板拷贝到博客的<code>node_modules</code>目录里</h2><h2 id="四、配置博客站点配置文件-config-yml"><a href="#四、配置博客站点配置文件-config-yml" class="headerlink" title="四、配置博客站点配置文件:_config.yml"></a>四、配置博客站点配置文件:_config.yml</h2><h2 id="五、使用hexo-clean-和-hexo-g与-hexo-s命令的时候，这时候就可以在本地http-localhost-4000查看看板娘"><a href="#五、使用hexo-clean-和-hexo-g与-hexo-s命令的时候，这时候就可以在本地http-localhost-4000查看看板娘" class="headerlink" title="五、使用hexo clean 和 hexo g与 hexo s命令的时候，这时候就可以在本地http://localhost:4000查看看板娘"></a>五、使用<code>hexo clean</code> 和 <code>hexo g</code>与 <code>hexo s</code>命令的时候，这时候就可以在本地<code>http://localhost:4000</code>查看看板娘</h2>]]></content>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2023/11/15/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://longhaobiao.com/">Stars Blog</a>! </p>
